@@ -1,6 +1,10 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉接网站建设、小程序、H5、APP、各种系统等
+
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
@@ -9,8 +13,6 @@
 
 **视频演示：
 [https://www.bilibili.com/video/BV1T14y1X7sY/](https://www.bilibili.com/video/BV1T14y1X7sY/)**
-
- 
 
 ## 基于Springboot+Vue的房屋维修系统(源代码+数据库+14000字论文)060
 
@@ -115,5 +117,3 @@
 5. vscode或idea打开ruoyi-ui项目，
 6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
 7. 访问  http://localhost:8080/
-
- 
